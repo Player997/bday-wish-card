@@ -21,7 +21,7 @@ Technologies Used:
 How to Use:
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/yourusername/birthday-wish-card.git
+   git clone https://github.com/Player997/birthday-wish-card.git
    ```
 2. Open the Project:
    Navigate to the project directory and open the `index.html` file in your preferred web browser.
