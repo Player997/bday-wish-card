@@ -28,7 +28,3 @@ How to Use:
 
 3. Customize the Card:
    Edit the HTML, CSS, and JavaScript files to customize the greeting message, animations, and styles as per your preference.
-
-Screenshots:
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
